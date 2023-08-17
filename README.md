@@ -28,5 +28,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-mhatre&" alt="shubham-mhatre" /></p>
 
 
-
-![snake gif](https://github.com/shubham-mhatre/shubham-mhatre/blob/output/github-contribution-grid-snake.svg)
