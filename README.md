@@ -111,6 +111,10 @@
     </a>
 </p>
 
+### Snake Game
+
+![Snake Game](https://example.com/snake-game.svg)
+
 
 
 <p><img align="left"
