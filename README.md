@@ -111,11 +111,6 @@
     </a>
 </p>
 
-### Snake Game
-
-![Snake Game](https://example.com/snake-game.svg)
-
-
 
 <p><img align="left"
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shubham-mhatre&show_icons=true&locale=en&layout=compact"
